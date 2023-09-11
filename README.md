@@ -1,9 +1,5 @@
 ## My Project Title
 
-Neuer Text
-
-ÄNDERUNG BEI GITHUB
-
 ---
 
 ### Project description
